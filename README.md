@@ -1,2 +1,2 @@
 # odin-recipes
-HTML knowledge practice
+Simple HTML practice
